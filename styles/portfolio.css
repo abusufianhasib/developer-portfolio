@@ -166,6 +166,7 @@ main section{
 .resume-container{
     display: flex;
     justify-content: space-around;
+    gap: 5%;
 }
 .resume-item-institute{
     font-weight: 400;
