@@ -187,3 +187,14 @@ main section{
     align-items: center;
     justify-content: center;
 }
+/* Footer Section Started */
+footer{
+    display: flex;
+    background-color: #fff8f3;
+    margin-top: 100px;
+    padding: 130px 200px;
+}
+.section-column-container{
+    display: flex;
+    justify-content: space-around;
+}
