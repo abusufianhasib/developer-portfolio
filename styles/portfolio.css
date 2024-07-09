@@ -160,8 +160,9 @@ main section{
 /* Resume part start here  */
 .resume-column-title{
     color: #474747;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 700;
+    margin-bottom: 1%;
 }
 .resume-container{
     display: flex;
@@ -170,4 +171,19 @@ main section{
 }
 .resume-item-institute{
     font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+.resume-item-description, .resume-item-institute{
+    color: #757575;
+}
+.resume-container hr{
+    margin: 3%;
+}
+.download-cv{
+    margin-top: 3.5%;
+    text-align: center;
+    display: f lex;
+    align-items: center;
+    justify-content: center;
 }
